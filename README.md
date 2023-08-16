@@ -14,10 +14,19 @@ Some Tips:
 . To delete a task you need to hold on to the task for a couple of seconds and it will be deleted.
 
 ScreenShots:
+
+
+
+
+
 <img width="278" alt="Screenshot 2023-08-16 085257" src="https://github.com/MYMurtada/flutter_todoApp/assets/118128637/86f48a2c-b94d-47fa-9d25-88d7f9ca8e04">
 <img width="278" alt="Screenshot 2023-08-16 085029" src="https://github.com/MYMurtada/flutter_todoApp/assets/118128637/727fcde8-7f34-41a2-beaf-dd1a7ec940b0">
 <img width="280" alt="Screenshot 2023-08-16 085005" src="https://github.com/MYMurtada/flutter_todoApp/assets/118128637/5c71bad9-5476-457c-b9c3-ae890fc2151b">
 <img width="279" alt="Screenshot 2023-08-16 085324" src="https://github.com/MYMurtada/flutter_todoApp/assets/118128637/cbe4f1cd-29b4-4843-b766-0e05249cde10">
+
+
+
+
 
 In the end, this is the final app in mu flutter course, thus my journey will start now on creating my own apps.
 to contact me if needed you can message me on Twitter: @SWE_Mohammad .
